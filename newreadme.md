@@ -11,15 +11,15 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Description:
-An app that creates a clean professional readme file with the NPM "inquirer"
+A readme generator for developers that makes a clean and professional read me
 ## Installation:
-clone the repository, then type in npn init -y and hit enter, followed by npm i inquirer to install the npm modules
+clone the repository then open in VS code.  type in NPM init -y followed by enter
 ## Usage:
- start your app and then aswer the series of questions.  at the end a file named "newreadme" will be created in the root folder
+ Start your app and then answer the questions and prompts
 ## Contributing:
-used back end javascrip and NPMs
+Use of the NMP "inquirer" to prompt the user with questions that they must answer to generate the readme
 ## Tests:
-Testing the fuctionality
+record a video of using your file and the functionality
 ## License:
 MIT
 ## Questions:
